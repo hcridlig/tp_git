@@ -3,7 +3,5 @@
 void main (){
 
 
-	printf("welcome hotfix");
-
-
+	printf("welcome welcome hotfix");
 }
